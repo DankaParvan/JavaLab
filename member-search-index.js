@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"SecondClass","l":"SecondClass()","url":"%3Cinit%3E()"}]
