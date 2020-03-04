@@ -40,6 +40,5 @@ public class Main {
 		//star
 
 		System.out.println("♂♂");
-
 	}
 }
