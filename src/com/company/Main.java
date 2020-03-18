@@ -38,7 +38,30 @@ public class Main {
 		//whilewhile
 
 		//star
-
+System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");
+		System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");
+		System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");
+		System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");System.out.println("сасасасасасасасасасасас");
+		System.out.println("swift круто!");
 		System.out.println("♂♂");
 	}
 }
