@@ -1,0 +1,6 @@
+[submodule "JavaLab"]
+	path = JavaLab
+	url = https://github.com/DankaParvan/JavaLab
+[submodule "https:/github.com/chaconinc/DbConnector"]
+	path = https:/github.com/chaconinc/DbConnector
+	url = https://github.com/DankaParvan/JavaLab
