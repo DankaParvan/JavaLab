@@ -39,7 +39,15 @@ public class Main {
 
 		//star
 
+		System.out.println("♂♂");		System.out.println("♂♂");
 		System.out.println("♂♂");
+		System.out.println("♂♂");
+		System.out.println("♂♂");
+		System.out.println("♂♂");
+		System.out.println("♂♂");
+		System.out.println("♂♂");
+
+
 
 
 
